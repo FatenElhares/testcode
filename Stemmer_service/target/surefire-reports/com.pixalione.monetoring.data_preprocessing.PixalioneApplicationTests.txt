@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.pixalione.monetoring.data_preprocessing.PixalioneApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.845 sec - in com.pixalione.monetoring.data_preprocessing.PixalioneApplicationTests

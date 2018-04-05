@@ -1,0 +1,30 @@
+stemmer:
+  image: stemmer:latest
+  ports:
+    - "8080:8080"
+  links:
+    - eureka
+
+
+lemmatizer:
+  image: lemmatizer:latest
+  ports:
+    - "8181:8181"
+  links:
+    - eureka
+
+eureka:
+  image: demo:latest
+  ports:
+    - "8761:8761"
+
+configserver:
+  image: configserver:latest
+  ports:
+    - "8888:8888"
+  links:
+    - eureka
+  
+
+
+

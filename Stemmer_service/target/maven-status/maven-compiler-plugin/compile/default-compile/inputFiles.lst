@@ -1,0 +1,12 @@
+/home/faten/Bureau/Code/Stemmer_service/src/main/java/com/pixalione/monetoring/data_preprocessing/Service/SnowballStemmerService.java
+/home/faten/Bureau/Code/Stemmer_service/src/main/java/com/pixalione/monetoring/data_preprocessing/Models/WordException.java
+/home/faten/Bureau/Code/Stemmer_service/src/main/java/com/pixalione/monetoring/data_preprocessing/Controller/SnowBallStemmerController.java
+/home/faten/Bureau/Code/Stemmer_service/src/main/java/com/pixalione/monetoring/data_preprocessing/Config/SwaggerConfig.java
+/home/faten/Bureau/Code/Stemmer_service/src/main/java/com/pixalione/monetoring/data_preprocessing/Service/PaiceHuskStemmerService.java
+/home/faten/Bureau/Code/Stemmer_service/src/main/java/com/pixalione/monetoring/data_preprocessing/Models/StemmResult.java
+/home/faten/Bureau/Code/Stemmer_service/src/main/java/com/pixalione/monetoring/data_preprocessing/PixalioneApplication.java
+/home/faten/Bureau/Code/Stemmer_service/src/main/java/com/pixalione/monetoring/data_preprocessing/Controller/PaiceHuskStemmerController.java
+/home/faten/Bureau/Code/Stemmer_service/src/main/java/com/pixalione/monetoring/data_preprocessing/Service/AbstractStemmer.java
+/home/faten/Bureau/Code/Stemmer_service/src/main/java/com/pixalione/monetoring/data_preprocessing/Service/Utils.java
+/home/faten/Bureau/Code/Stemmer_service/src/main/java/com/pixalione/monetoring/data_preprocessing/Core/PaiceHuskStemmer.java
+/home/faten/Bureau/Code/Stemmer_service/src/main/java/com/pixalione/monetoring/data_preprocessing/Service/ServiceTextOperations.java

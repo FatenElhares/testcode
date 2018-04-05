@@ -1,0 +1,16 @@
+com/pixalione/monetoring/data_preprocessing/Controller/SnowBallStemmerController.class
+com/pixalione/monetoring/data_preprocessing/Controller/PaiceHuskStemmerController.class
+com/pixalione/monetoring/data_preprocessing/Service/SnowballStemmerService$1.class
+com/pixalione/monetoring/data_preprocessing/Service/PaiceHuskStemmerService$1.class
+com/pixalione/monetoring/data_preprocessing/PixalioneApplication.class
+com/pixalione/monetoring/data_preprocessing/Models/StemmResult.class
+com/pixalione/monetoring/data_preprocessing/Service/SnowballStemmerService.class
+com/pixalione/monetoring/data_preprocessing/Core/PaiceHuskStemmer.class
+com/pixalione/monetoring/data_preprocessing/Service/StemmerImpl.class
+com/pixalione/monetoring/data_preprocessing/Service/Utils.class
+com/pixalione/monetoring/data_preprocessing/Service/AbstractStemmer$LANGUAGE.class
+com/pixalione/monetoring/data_preprocessing/Service/PaiceHuskStemmerService.class
+com/pixalione/monetoring/data_preprocessing/Service/ServiceTextOperations.class
+com/pixalione/monetoring/data_preprocessing/Service/AbstractStemmer.class
+com/pixalione/monetoring/data_preprocessing/Models/WordException.class
+com/pixalione/monetoring/data_preprocessing/Config/SwaggerConfig.class
