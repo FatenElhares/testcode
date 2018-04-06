@@ -51,16 +51,23 @@ testbuild:
 	${INFO} "Creating ConfigServer Image..."
 	@ apt-get install maven --assume-yes
 	@ cd ConfigServerService && mvn package
+	@ apt-get install pv 
+	@ apt-get install sshpass
+	@ docker save configserver | bzip2 | pv | sshpass -p pdjcx9sfQ_VQW_dJ ssh root@213.32.75.99 'bunzip2 | docker load'
 
 	${INFO} "Creating Eureka Server Image..."
 	@ cd EurekaServer && mvn package
+	@ docker save demo | bzip2 | pv | sshpass -p pdjcx9sfQ_VQW_dJ ssh root@213.32.75.99 'bunzip2 | docker load'
 
 	${INFO} "Creating Stemmer Image..."
 	@ cd Stemmer_service && mvn package
-
+	@ docker save stemmer | bzip2 | pv | sshpass -p pdjcx9sfQ_VQW_dJ ssh root@213.32.75.99 'bunzip2 | docker load'
 
 	${INFO} "Creating Lemmatizer Image..."
 	@ cd Stemmer_service && mvn package
+	@ docker save lemmatizer | bzip2 | pv | sshpass -p pdjcx9sfQ_VQW_dJ ssh root@213.32.75.99 'bunzip2 | docker load'
+
+
 
 	${INFO} "Stage Test and Build Complete"
 
