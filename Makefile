@@ -51,7 +51,8 @@ testbuild:
 	${INFO} "Creating ConfigServer Image..."
 	@ apt-get install maven --assume-yes
 	@ cd ConfigServerService && mvn package
-	@ apt-get install pv 
+	@ apt-get install pv
+	@ apt-get install ssh
 	@ apt-get install sshpass
 	@ docker save configserver | bzip2 | pv | sshpass -p pdjcx9sfQ_VQW_dJ ssh root@213.32.75.99 'bunzip2 | docker load'
 
