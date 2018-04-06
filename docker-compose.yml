@@ -1,7 +1,7 @@
 stemmer:
   image: stemmer:latest
   ports:
-    - "8080:8777"
+    - "8777:8777"
   links:
     - eureka
 

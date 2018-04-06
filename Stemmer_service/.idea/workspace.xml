@@ -1,35 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca00b6b2-1be0-49af-9849-5974e8d38a70" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BusinessTests/test - ws.csv" beforeDir="false" afterPath="$PROJECT_DIR$/BusinessTests/test - ws.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExceptionWord/ExceptionWords_french.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ExceptionWord/ExceptionWords_french.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bitbucket-pipelines.yml" beforeDir="false" afterPath="$PROJECT_DIR$/bitbucket-pipelines.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/Config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/Config/SwaggerConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/Controller/PaiceHuskStemmerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/Controller/PaiceHuskStemmerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/Controller/SnowBallStemmerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/Controller/SnowBallStemmerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/Core/PaiceHuskStemmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/Core/PaiceHuskStemmer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/Models/StemmResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/Models/StemmResult.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/Models/WordException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/Models/WordException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/PixalioneApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/PixalioneApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/Service/AbstractStemmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/Service/AbstractStemmer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/Service/PaiceHuskStemmerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/Service/PaiceHuskStemmerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/Service/ServiceTextOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/Service/ServiceTextOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/Service/SnowballStemmerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/Service/SnowballStemmerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/Service/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/Service/Utils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/pixalione/monetoring/data_preprocessing/Models/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/pixalione/monetoring/data_preprocessing/Models/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/pixalione/monetoring/data_preprocessing/PixalioneApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/pixalione/monetoring/data_preprocessing/PixalioneApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/pixalione/monetoring/data_preprocessing/businessTest/NazaninTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/pixalione/monetoring/data_preprocessing/businessTest/NazaninTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="ca00b6b2-1be0-49af-9849-5974e8d38a70" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,7 +22,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
+            <state relative-caret-position="1804">
               <caret line="82" column="21" selection-start-line="82" selection-start-column="21" selection-end-line="82" selection-end-column="21" />
             </state>
           </provider>
@@ -65,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="true">
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -77,17 +49,17 @@
       <file leaf-file-name="AbstractStemmer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/Service/AbstractStemmer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="64" column="16" lean-forward="true" selection-start-line="63" selection-start-column="32" selection-end-line="64" selection-end-column="16" />
+            <state relative-caret-position="1144">
+              <caret line="64" column="16" selection-start-line="63" selection-start-column="32" selection-end-line="64" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="63" selection-end-line="5" selection-end-column="79" />
+            <state relative-caret-position="88">
+              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -95,7 +67,7 @@
       <file leaf-file-name="PixalioneApplication.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/PixalioneApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
+            <state relative-caret-position="110">
               <caret line="7" column="22" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -108,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
-              <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -125,18 +97,8 @@
       <file leaf-file-name="StemmResult.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/Models/StemmResult.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
+            <state relative-caret-position="308">
               <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
-              <folding>
-                <element signature="e#220#221#0" expanded="true" />
-                <element signature="e#248#249#0" expanded="true" />
-                <element signature="e#290#291#0" expanded="true" />
-                <element signature="e#324#325#0" expanded="true" />
-                <element signature="e#359#360#0" expanded="true" />
-                <element signature="e#390#391#0" expanded="true" />
-                <element signature="e#438#439#0" expanded="true" />
-                <element signature="e#478#479#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -144,7 +106,7 @@
       <file leaf-file-name="WordException.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/Models/WordException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-194">
+            <state relative-caret-position="286">
               <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
             </state>
           </provider>
@@ -167,7 +129,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="modificationStamps">
@@ -198,17 +160,17 @@
         <option value="$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/Controller/SnowBallStemmerController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/Controller/PaiceHuskStemmerController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/Service/PaiceHuskStemmerService.java" />
-        <option value="$PROJECT_DIR$/Dockerfile" />
         <option value="$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/EnableDiscoveryClient.java" />
         <option value="$PROJECT_DIR$/bitbucket-pipelines.yml" />
         <option value="$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/PixalioneApplication.java" />
         <option value="$PROJECT_DIR$/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/src/main/resources/bootstrap.properties" />
-        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/src/main/resources/application-developement.properties" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/Models/StemmResult.java" />
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
       </list>
     </option>
   </component>
@@ -247,10 +209,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2070" />
-    <option name="y" value="135" />
-    <option name="width" value="1605" />
-    <option name="height" value="706" />
+    <option name="x" value="2055" />
+    <option name="y" value="282" />
+    <option name="width" value="1918" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -260,7 +222,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -345,16 +306,6 @@
               <item name="Stemmer_service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="data_preprocessing" type="462c0819:PsiDirectoryNode" />
-              <item name="Service" type="462c0819:PsiDirectoryNode" />
-              <item name="AbstractStemmer.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Stemmer_service" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Stemmer_service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -400,6 +351,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -415,7 +367,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
@@ -948,6 +900,8 @@
       <workItem from="1522739629119" duration="20260000" />
       <workItem from="1522826116378" duration="622000" />
       <workItem from="1522827310230" duration="9324000" />
+      <workItem from="1522944043778" duration="245000" />
+      <workItem from="1522999145781" duration="743000" />
     </task>
     <task id="LOCAL-00001" summary="Add words Exceptions">
       <created>1514988660383</created>
@@ -993,10 +947,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51176000" />
+    <option name="totallyTimeSpent" value="52164000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="-4" width="1920" height="1084" extended-state="6" />
+    <frame x="1919" y="-11" width="1922" height="1092" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -1012,17 +966,16 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32800853" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="8" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info active="true" anchor="bottom" id="Run Dashboard" order="9" visible="true" weight="0.54419595" />
+      <window_info anchor="bottom" id="Run Dashboard" order="9" visible="true" weight="0.06709265" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3270751" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49520767" weight="0.70887727" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49713877" weight="0.17784877" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24791667" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24791667" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -1033,11 +986,12 @@
       <window_info anchor="bottom" id="JRebel Executor" order="7" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="Properties" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Graph Database Console" order="7" />
       <window_info id="Nl-Palette" order="2" />
       <window_info id="JRebel" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32800853" />
+      <window_info anchor="right" id="Properties" order="3" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -1340,17 +1294,49 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/bootstrap.properties" />
-    <entry file="file://$PROJECT_DIR$/Dockerfile">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-developement.properties" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="63" selection-end-line="5" selection-end-column="79" />
+        <state relative-caret-position="1804">
+          <caret line="82" column="21" selection-start-line="82" selection-start-column="21" selection-end-line="82" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application-developement.properties">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/Models/WordException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        <state relative-caret-position="286">
+          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/PixalioneApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/Service/AbstractStemmer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1144">
+          <caret line="64" column="16" selection-start-line="63" selection-start-column="32" selection-end-line="64" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/Models/StemmResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
@@ -1361,65 +1347,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="82" column="21" selection-start-line="82" selection-start-column="21" selection-end-line="82" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/Models/WordException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-194">
-          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/PixalioneApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
-          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/Service/AbstractStemmer.java">
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="64" column="16" lean-forward="true" selection-start-line="63" selection-start-column="32" selection-end-line="64" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pixalione/monetoring/data_preprocessing/Models/StemmResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
-          <folding>
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#248#249#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#359#360#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#438#439#0" expanded="true" />
-            <element signature="e#478#479#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="88">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
         </state>
       </provider>
     </entry>
