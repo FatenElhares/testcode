@@ -54,7 +54,7 @@ testbuild:
 	@ apt-get install pv
 	@ apt-get install ssh --assume-yes
 	@ apt-get install sshpass
-	@ docker save configserver | bzip2 | pv | sshpass -p pdjcx9sfQ_VQW_dJ ssh root@213.32.75.99 'bunzip2 | docker load'
+	@ docker save configserver | bzip2 | pv | sshpass -p pdjcx9sfQ_VQW_dJ ssh -o StrictHostKeyChecking=no root@213.32.75.99 'bunzip2 | docker load'
 
 	${INFO} "Creating Eureka Server Image..."
 	@ cd EurekaServer && mvn package
